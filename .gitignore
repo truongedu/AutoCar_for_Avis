@@ -1,0 +1,7 @@
+*.jpg
+V1.0/
+avis_env/
+test.py
+test1.py
+test2.py
+__pycache__/
